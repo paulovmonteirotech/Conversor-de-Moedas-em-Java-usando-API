@@ -1,7 +1,7 @@
 # Conversor-de-Moedas-em-Java-usando-API
 Conversor de Moedas em Java Usando exchangerate-api
 
-(adicione a dependencia Gson 2.11.0 na sua máquina
+(ADICIONE A DEPENDENCIA Gson 2.11.0 NA SUA MAQUINA
 https://mvnrepository.com/artifact/com.google.code.gson/gson)
 
 
