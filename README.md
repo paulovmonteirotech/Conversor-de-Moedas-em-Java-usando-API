@@ -43,7 +43,7 @@ import java.net.HttpURLConnection;: Importa a classe HttpURLConnection, que é u
 import java.net.URL;: Importa a classe URL, que é usada para representar um endereço URL e estabelecer uma conexão com ele.
 
 
-private static final String API_KEY = "b47b555e1cc4beec8d7edb49";: Define uma chave de API para autenticar as solicitações feitas para a API de taxas de câmbio. Este é um valor fictício; em um código real, você usaria sua própria chave de API.
+private static final String API_KEY = "b4grgfgfgfgf7edb49";: Define uma chave de API para autenticar as solicitações feitas para a API de taxas de câmbio. Este é um valor fictício; em um código real, você usaria sua própria chave de API.
 
 private static final String API_URL = "https://v6.exchangerate-api.com/v6/" + API_KEY + "/latest/";: Define a URL base da API para obter as taxas de câmbio mais recentes, concatenando a chave da API com a URL base.
 public double getConvertedAmount(String baseCurrency, String targetCurrency, double amount) throws Exception: Define um método público que recebe a moeda base, a moeda alvo e o valor a ser convertido. Retorna o valor convertido e pode lançar uma exceção se algo der errado.
